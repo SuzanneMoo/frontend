@@ -1,0 +1,7 @@
+<h1>Introduction to front-end development</h1>
+A front-end developer architects and develops client part of websites and applications using web technologies (languages):
+HTML
+CSS
+JavaScript
+Atr #id și atr. class. Atributul id trb să fie unic în pagină. Un element poate avea mai multe clase.
+ID poate fi folosit doar pentru identificarea unui element pe cand class poate contine mai multe elemente
