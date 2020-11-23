@@ -1,1 +1,2 @@
 # frontend
+Project for exercising
