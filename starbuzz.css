@@ -1,16 +1,17 @@
 body {
-    background-color: rgb(211, 163, 179);
+    background-color: rgb(230, 210, 216);
+    font-family: sans-serif;
 
 }
 
 h1 {
-    color: rgb(5, 176, 219);
+    color: rgb(50, 209, 188);
     text-align: center;
 }
 h2 {
-    color: brown;
+    color: rgb(170, 110, 194);
 }
 h3 {
-    color: hotpink;
+    color: rgb(20, 216, 223);
   
 }
