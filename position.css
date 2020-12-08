@@ -1,0 +1,45 @@
+body{
+    height: 200vw;
+}
+div{
+    width: 5em;
+    height: 5em;
+    text-align: center;
+line-height: 5em;
+}
+#a{
+background-color: rgb(247, 225, 33);
+position: absolute
+right: 10em
+}
+#b{
+background-color: indianred;
+position: fixed;
+top: 0em;
+left: 50%;
+}
+#c{
+background-color: lightblue;
+position: relative
+right: 10em; 
+}
+
+#d{
+    background-color: lightsalmon;
+    position: absolute;
+    right: 10em;
+}
+
+#parent{
+    width: 10em;
+    height: 10em;
+background-color: paleturquoise;
+position: relative;
+}
+#kid{
+    width: 5em;
+    height: 5em;
+   background-color: plum;
+   position: absolute;
+   top: 2em;
+}

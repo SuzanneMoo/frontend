@@ -1,3 +1,0 @@
-<h1>Hello World</h1>
-
-<p>We would like to invite you to our yearly event</p>
